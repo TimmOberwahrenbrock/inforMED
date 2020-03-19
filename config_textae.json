@@ -1,0 +1,31 @@
+{
+  "entity types": [
+    {
+      "id": "Disease",
+      "color": "#AAAAFE"
+    },
+    {
+      "id": "Evidence",
+      "color": "#AAFEAA"
+    },
+    {
+      "id": "Manifestation",
+      "color": "#FEAAAA"
+    },
+    {
+      "id": "Therapy",
+      "color": "#FEAAAA"
+    }
+  ],
+  "relation types": [
+    {
+      "id": "has",
+      "color": "#0000FF",
+      "default": true
+    },
+    {
+      "id": "treats",
+      "color": "#FF0000"
+    }
+  ]
+}
