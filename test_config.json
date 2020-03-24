@@ -1,3 +1,4 @@
+{
 "entity types": [
   {
     "id": "Protein",
@@ -9,3 +10,4 @@
     "color": "#FF0000",
   }
 ]
+}
